@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureProject", "AzureProject\AzureProject.csproj", "{63B3B38E-3936-4E11-BA93-F389BCCB2EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureProject.Interfaces", "AzureProject.Interfaces\AzureProject.Interfaces.csproj", "{3AFAF34B-9408-423E-9FF3-BB0D048007CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureProject.Implementations", "AzureProject.Implementations\AzureProject.Implementations.csproj", "{D9596FD2-8C04-4DAA-9BBC-6408866CDDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B3B38E-3936-4E11-BA93-F389BCCB2EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B3B38E-3936-4E11-BA93-F389BCCB2EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B3B38E-3936-4E11-BA93-F389BCCB2EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B3B38E-3936-4E11-BA93-F389BCCB2EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFAF34B-9408-423E-9FF3-BB0D048007CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFAF34B-9408-423E-9FF3-BB0D048007CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFAF34B-9408-423E-9FF3-BB0D048007CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFAF34B-9408-423E-9FF3-BB0D048007CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9596FD2-8C04-4DAA-9BBC-6408866CDDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9596FD2-8C04-4DAA-9BBC-6408866CDDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9596FD2-8C04-4DAA-9BBC-6408866CDDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9596FD2-8C04-4DAA-9BBC-6408866CDDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

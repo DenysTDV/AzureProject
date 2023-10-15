@@ -1,0 +1,12 @@
+C:\Projects\AzureProject\AzureProject.Interfaces\bin\Debug\net6.0\AzureProject.Interfaces.deps.json
+C:\Projects\AzureProject\AzureProject.Interfaces\bin\Debug\net6.0\AzureProject.Interfaces.dll
+C:\Projects\AzureProject\AzureProject.Interfaces\bin\Debug\net6.0\AzureProject.Interfaces.pdb
+C:\Projects\AzureProject\AzureProject.Interfaces\obj\Debug\net6.0\AzureProject.Interfaces.csproj.AssemblyReference.cache
+C:\Projects\AzureProject\AzureProject.Interfaces\obj\Debug\net6.0\AzureProject.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AzureProject\AzureProject.Interfaces\obj\Debug\net6.0\AzureProject.Interfaces.AssemblyInfoInputs.cache
+C:\Projects\AzureProject\AzureProject.Interfaces\obj\Debug\net6.0\AzureProject.Interfaces.AssemblyInfo.cs
+C:\Projects\AzureProject\AzureProject.Interfaces\obj\Debug\net6.0\AzureProject.Interfaces.csproj.CoreCompileInputs.cache
+C:\Projects\AzureProject\AzureProject.Interfaces\obj\Debug\net6.0\AzureProject.Interfaces.dll
+C:\Projects\AzureProject\AzureProject.Interfaces\obj\Debug\net6.0\refint\AzureProject.Interfaces.dll
+C:\Projects\AzureProject\AzureProject.Interfaces\obj\Debug\net6.0\AzureProject.Interfaces.pdb
+C:\Projects\AzureProject\AzureProject.Interfaces\obj\Debug\net6.0\ref\AzureProject.Interfaces.dll

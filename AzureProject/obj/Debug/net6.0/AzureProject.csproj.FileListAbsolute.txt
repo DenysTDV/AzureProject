@@ -1,0 +1,15 @@
+C:\Projects\AzureProject\AzureProject\bin\Debug\net6.0\AzureProject.deps.json
+C:\Projects\AzureProject\AzureProject\bin\Debug\net6.0\AzureProject.dll
+C:\Projects\AzureProject\AzureProject\bin\Debug\net6.0\AzureProject.pdb
+C:\Projects\AzureProject\AzureProject\bin\Debug\net6.0\AzureProject.Interfaces.dll
+C:\Projects\AzureProject\AzureProject\bin\Debug\net6.0\AzureProject.Interfaces.pdb
+C:\Projects\AzureProject\AzureProject\obj\Debug\net6.0\AzureProject.csproj.AssemblyReference.cache
+C:\Projects\AzureProject\AzureProject\obj\Debug\net6.0\AzureProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AzureProject\AzureProject\obj\Debug\net6.0\AzureProject.AssemblyInfoInputs.cache
+C:\Projects\AzureProject\AzureProject\obj\Debug\net6.0\AzureProject.AssemblyInfo.cs
+C:\Projects\AzureProject\AzureProject\obj\Debug\net6.0\AzureProject.csproj.CoreCompileInputs.cache
+C:\Projects\AzureProject\AzureProject\obj\Debug\net6.0\AzureProject.csproj.CopyComplete
+C:\Projects\AzureProject\AzureProject\obj\Debug\net6.0\AzureProject.dll
+C:\Projects\AzureProject\AzureProject\obj\Debug\net6.0\refint\AzureProject.dll
+C:\Projects\AzureProject\AzureProject\obj\Debug\net6.0\AzureProject.pdb
+C:\Projects\AzureProject\AzureProject\obj\Debug\net6.0\ref\AzureProject.dll
